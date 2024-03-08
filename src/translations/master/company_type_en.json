@@ -1,0 +1,24 @@
+{
+    "title": "Company Type",
+    "table-title": "Table Company Type",
+    "label": {
+        "id": "Id",
+        "name": "Name",
+        "status": "Status",
+        "description": "Description",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update Company Type",
+        "title-create": "Create Company Type"
+    },
+    "button": {
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

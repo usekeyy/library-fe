@@ -1,0 +1,33 @@
+{
+    "title" : "Performance Report",
+    "label" : {
+        "nomor-pendaftaran" : "ERP Number",
+        "nama-vendor" : "Vendor Name",
+        "purchasing-org" : "Purchasing Organization",
+        "ranking" : "Ranking",
+        "total-nilai" : "Value Total",
+        "kelompok" : "Group",
+        "status" : "Status",
+        "action" : "Action"
+    },
+    "data-table" : {
+        "aktif" : "Active",
+        "detail-nilai" : "Value Details",
+        "detail-punish" : "Punishment Details"
+    },
+    "detail-nilai" : {
+        "title" : "Performance Report Details",
+        "label" : {
+            "nomor" : "Number",
+            "item-penilaian" : "Assessment Items",
+            "nilai-vpr-sap" : "VPR ERP Value",
+            "bobot" : "Weight",
+            "jumlah-po" : "Jumlah PO",
+            "bobot-qs" : "Q/S Weight",
+            "konversi-nilai" : "Value Conversion"
+        }
+    },
+    "detail-punish" : {
+        "title" : "Punishment Details"
+    }
+}

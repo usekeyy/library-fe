@@ -1,0 +1,26 @@
+{
+    "table": "Table",
+	"label": {
+        "template_persyaratan": "Requirement Template",
+        "template_persyaratan_item": "Requirement Item Template",
+        "id" : "Id",
+        "name": "Name",
+        "description": "Description",
+		"tipe": "Type",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update",
+        "title-create" : "Create"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

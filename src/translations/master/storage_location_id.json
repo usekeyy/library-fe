@@ -1,0 +1,29 @@
+{
+	"title": "Storage Location",
+    "table-title": "Table Storage Location",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+		"username": "Username",
+        "code": "Kode",
+        "plant-name" : "Nama Plant",
+        "plant-id" : "ID Plant",
+        "address" : "Alamat",
+        "code-post" : "Kode Pos",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Storage Location",
+        "title-create" : "Buat Storage Location Baru"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

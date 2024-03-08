@@ -1,0 +1,43 @@
+{
+    "title": "Open Vendor Punishment",
+    "table": "Table",
+    "label": {
+        "verification": "Verification",
+        "punishment_vendor": "Vendor Punishment",
+        "open_punishment_vendor": "Open Vendor Punishment",
+        "open_punishment_vendor_verifikasi": "Open Vendor Punishment Verification",
+        "open_punishment_vendor_detail": "Open Vendor Punishment Detail",
+        "open_punishment_vendor_verifikasi_detail": "Open Vendor Punishment Verification Detail",
+        "vendor": "Vendor",
+        "vendor_id": "Registration Number",
+        "vendor_sap_code": "ERP Number",
+        "vendor_npwp_nomor": "NPWP Number",
+        "vendor_name": "Vendor Name",
+        "punishment_type": "Punishment Type",
+        "suspend_type": "Suspend Type",
+        "open_date": "Open Date",
+        "reason_note": "Open Punishment Note",
+        "purchasing_org": "Purchasing Org",
+        "purchasing_org_suspend": "Purchasing Org Suspend",
+        "verification_note": "Verification Note",
+        "file": "Open Punishment Supporting File",
+        "status": "Status",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "created_by": "Created By",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update",
+        "title-create": "Create"
+    },
+    "button": {
+        "approve": "Approve",
+        "reject": "Reject",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

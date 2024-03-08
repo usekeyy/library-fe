@@ -1,0 +1,40 @@
+{
+	"title": "Panduan Pengguna",
+    "table-title": "Table Panduan Pengguna",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+        "path": "path",
+		"country": "Negara",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi",
+        "address" : "Alamat",
+        "bank-name" : "Nama Bank",
+        "district" : "Kabupaten",
+        "long-name" : "Nama Panjang",
+        "company-name" : "Nama Perusahaan",
+        "company-id" : "ID Perusahaan",
+        "currency-name" : "Nama Mata Uang",
+        "currency-id" : "ID Mata Uang",
+        "gl-account-id" : "ID Akun GL",
+        "gl-account-name" : "Nama Akun GL",
+        "description" : "Deskripsi",
+        "symbol" : "Simbol"
+    },
+    "modal":{
+        "title-update" : "Ubah Panduan Pengguna",
+        "title-create" : "Buat Panduan Pengguna Baru"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    },
+    "table-title-master" : {
+        "bank-branch" : "Cabang Bank"
+    }
+}

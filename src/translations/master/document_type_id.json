@@ -1,0 +1,33 @@
+{
+	"title": "Tipe Dokumen",
+    "table-title": "Table Tipe Dokumen",
+    "table-title-tax": "Tabel Pajak",
+	"label": {
+		"id": "Id",
+		"name": "Nama",
+        "username": "Username",
+        "company_id" : "ID Perusahaan",
+        "document_category" : "Kategori Dokumen",
+        "description" : "Deskripsi",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi",
+
+        "tax" : "Pajak",
+        "tax-code" : "Kode Pajak",
+        "tax-description" : "Deskripsi Pajak"
+    },
+    "modal":{
+        "title-update" : "Ubah Data Tipe Dokumen",
+        "title-create" : "Buat Data Tipe Dokumen"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

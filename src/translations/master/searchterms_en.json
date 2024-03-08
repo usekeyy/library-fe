@@ -1,0 +1,22 @@
+{
+	"title": "Searchterms",
+    "table-title": "Table Searchterms",
+	"label": {
+        "id" : "Id",
+        "code": "Code",
+        "description" : "Descriptions",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Form Update Searchterms Master",
+        "title-create" : "Form Add Searchterms Master"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close",
+        "delete" : "Delete"
+    }
+}

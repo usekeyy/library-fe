@@ -1,0 +1,26 @@
+{
+	"title": "Division",
+    "table-title": "Table Division",
+	"label": {
+		"id": "Id",
+        "name": "Name",
+        "chief": "Head of Division",
+        "purchasing_org_id": "Purchasing Org Code",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-detail" : "Detail Division",
+        "title-update" : "Update Division",
+        "title-create" : "Create Division"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"title": "Master VPR",
+    "table-title": "Master VPR Table",
+	"label": {
+		"po": "Purchasing Organization",
+		"vendor-code": "Vendor Code",
+		"delivery": "Delivery",
+		"quality": "Quality",
+		"price": "Price",
+        "service": "Service",
+        "rfq" : "RFQ",
+        "other" : "Other",
+        "count-service" : "Count Service",
+        "count-material" : "Count Material",
+        "date" : "Date"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

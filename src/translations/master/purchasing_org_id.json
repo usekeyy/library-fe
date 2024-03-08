@@ -1,0 +1,26 @@
+{
+	"title": "Purchasing Org",
+    "table-title": "Purchasing Org",
+	"label": {
+        "id" : "Id",
+		"name": "Nama",
+		"company-id": "Id Perusahaan",
+		"company-name": "Nama Perusahaan",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Purchasing Org",
+        "title-create" : "Buat Purchasing Org"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

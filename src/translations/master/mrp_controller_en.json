@@ -1,0 +1,29 @@
+{
+	"title": "Mrp Controller",
+    "table-title": "Table Mrp Controller",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+		"username": "Username",
+        "code": "Code",
+        "plant-name" : "Plant Name",
+        "plant-id" : "Plant ID",
+        "address" : "Address",
+        "code-post" : "Postal Code",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Mrp Controller",
+        "title-create" : "Create Mrp Controller"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

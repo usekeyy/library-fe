@@ -1,0 +1,25 @@
+{
+	"title": "Regions",
+    "table-title": "Table Regions",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+        "code": "Code",
+		"country": "Country",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Regions",
+        "title-create" : "Create Regions"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

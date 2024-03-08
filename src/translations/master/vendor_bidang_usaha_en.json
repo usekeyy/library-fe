@@ -1,0 +1,29 @@
+{
+	"title": "Vendor Bidang Usaha",
+    "table-title": "Table Vendor Bidang Usaha",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+        "country-id" : "ID Country",
+        "country-name" : "Country Name",
+        "region-id" : "ID Region",
+        "region-name" : "Region Name",
+        "district-id" : "ID District", 
+        "district-name" : "District Name", 
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Vendor Bidang Usaha",
+        "title-create" : "Create Vendor Bidang Usaha"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

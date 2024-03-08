@@ -1,0 +1,23 @@
+{
+	"title": "Gl Account Company",
+    "table-title": "Table Gl Account Company",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Gl Account Company",
+        "title-create" : "Buat Gl Account Company"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

@@ -1,0 +1,31 @@
+{
+	"title": "Kelurahan",
+    "table-title": "Table Kelurahan",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+        "country-id" : "ID Negara",
+        "country-name" : "Nama Negara",
+        "region-id" : "ID Provinsi",
+        "region-name" : "Nama Provinsi",
+        "district-id" : "ID Kabupaten", 
+        "district-name" : "Nama Kabupaten", 
+        "sub-district-id" : "ID Sub Kecamatan", 
+        "sub-district-name" : "Nama Kecamatan", 
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Data Kelurahan",
+        "title-create" : "Buat Data Kelurahan Baru"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

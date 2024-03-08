@@ -1,0 +1,215 @@
+{
+	"status": 1,
+	"status_txt": "success",
+	"message": "Berhasil mendapatkan data.",
+	"data": [
+			{
+					"id": 999,
+					"title": "Home",
+					"path": "/home",
+					"order_no": 58,
+					"icon": "fa fa-home",
+					"parent_id": 0,
+					"access": [
+							"A",
+							"C",
+							"D",
+							"R",
+							"U"
+					]
+			},
+			{
+					"id": 99921,
+					"title": "Example",
+					"path": "/example",
+					"order_no": 58,
+					"icon": "fa fa-cubes",
+					"parent_id": 0,
+					"access": [
+							"A",
+							"C",
+							"D",
+							"R",
+							"U"
+					],
+					"children": [
+						{ "parent_id": 99921, "path": "/example", "title": "Example Component" },
+						{ "parent_id": 99921, "path": "/example_pages", "title": "Example Pages" },
+						{ "parent_id": 99921, "path": "/action", "title": "Master Actions" },
+						{ "parent_id": 99921, "path": "/route", "title": "Master Route" }
+					]
+			},
+			{
+					"id": 16,
+					"title": "Master Data",
+					"path": "#",
+					"order_no": 1,
+					"icon": "fa fa-cubes",
+					"parent_id": 0,
+					"access": [
+							"A",
+							"C",
+							"D",
+							"R",
+							"U"
+					],
+					"children": [
+							{
+									"id": 17,
+									"title": "Distributor",
+									"path": "/master_distributor",
+									"order_no": 17,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 18,
+									"title": "Sales Area",
+									"path": "/sales_area",
+									"order_no": 18,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 19,
+									"title": "Gudang",
+									"path": "/master_warehouse",
+									"order_no": 19,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 20,
+									"title": "Pengecer",
+									"path": "/master_retail",
+									"order_no": 20,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 21,
+									"title": "Relasi Distributor Pengecer",
+									"path": "/retail_distributor_relation",
+									"order_no": 21,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 22,
+									"title": "Kelompok Tani",
+									"path": "/farmergroup_master",
+									"order_no": 22,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 23,
+									"title": "Petani",
+									"path": "/master_petani",
+									"order_no": 23,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 24,
+									"title": "Subtitusi",
+									"path": "/master_subtitution",
+									"order_no": 24,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 25,
+									"title": "Master Pricing",
+									"path": "/master_pricing",
+									"order_no": 31,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 40,
+									"title": "Supply Point",
+									"path": "/supply_point",
+									"order_no": 37,
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							},
+							{
+									"id": 66,
+									"title": "Matriks RDKK",
+									"path": "/matrix_rdkk",
+									"order_no": 40,
+									"icon": "0",
+									"parent_id": 16,
+									"access": [
+											"A",
+											"C",
+											"D",
+											"R",
+											"U"
+									]
+							}
+					]
+			}
+	]
+}

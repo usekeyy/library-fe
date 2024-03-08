@@ -1,0 +1,29 @@
+{
+    "title": "Vendor Qualification",
+    "table-title": "Table Vendor Qualification",
+    "label": {
+        "id": "Id",
+        "name": "Name",
+        "country-id": "ID Country",
+        "country-name": "Country Name",
+        "region-id": "ID Region",
+        "region-name": "Region Name",
+        "district-id": "ID District",
+        "district-name": "District Name",
+        "status": "Status",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update Vendor Qualification",
+        "title-create": "Create Vendor Qualification"
+    },
+    "button": {
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

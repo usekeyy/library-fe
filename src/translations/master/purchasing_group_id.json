@@ -1,0 +1,25 @@
+{
+	"title": "Purchasing Group",
+    "table-title": "Purchasing Group",
+	"label": {
+        "id" : "Id",
+		"name": "Nama",
+		"username": "Username",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Purchasing Group",
+        "title-create" : "Buat Purchasing Group"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

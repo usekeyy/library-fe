@@ -1,0 +1,24 @@
+{
+	"title": "Tipe Kondisi",
+    "table-title": "Table Tipe Kondisi",
+	"label": {
+		"type": "Tipe Kondisi",
+		"description": "Deskripsi Tipe Kondisi",
+        "calc-type" : "Tipe Calc",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah"
+    },
+    "modal":{
+        "title-update" : "Ubah Tipe Kondisi",
+        "title-create" : "Buat Tipe Kondisi"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

@@ -1,0 +1,29 @@
+{
+	"title": "Subdistrict",
+    "table-title": "Table Subdistrict",
+	"label": {
+        "id" : "Id",
+        "name": "District",
+        "country-id" : "ID Country",
+        "country-name" : "Country Name",
+        "region-id" : "ID Region",
+        "region-name" : "Region Name",
+        "district-id" : "ID Subdistrict", 
+        "district-name" : "Subdistrict Name", 
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Subdistrict",
+        "title-create" : "Create Subdistrict"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

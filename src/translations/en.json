@@ -1,0 +1,135 @@
+{
+	"welcome": {
+		"Hello World": "Hallo Dunia",
+		"title": "Selamat datang di react app"
+	},
+	"To get started, edit <1>src/App.js</1> and <3>save to reload</3>.": "To get started, edit <1>src/App.js</1> and <3>save to reload</3>. ",
+	"Test": " EN",
+	"userMessagesUnread": " Hello <1>{{name}}</1>, you have {{count}} unread message. <5>Go to message</5>.",
+	"userMessagesUnread_plural": "Hello <1>{{name}}</1>, you have {{count}} unread messages.  <5>Go to messages</5>.",
+	"Select": {
+		"Sedang Memuat": "Loading",
+		"Pilih": "Select"
+	},
+	"Tabel": { 
+		"Menampilkan": "Show",
+		"Keterangan": "entries on page {{pages}} of {{totals}} record total",
+		"empty-row" : "Empty Row"
+	},
+	"range-from-grather-then-range-to" : "From Value Grather then To Value",
+	"filter-range" : {
+		"title" : "Range Value",
+		"start" : "Start",
+		"to" : "To",
+		"all" : "All",
+		"range" : "Range Value",
+		"value" : "Value"
+	},
+	"required" : "Required",
+	"Button": {
+		"Simpan": "Save",
+		"Batal": "Cancel",
+		"Submit": "Submit",
+		"Tutup": "Close",
+		"Hapus": "Delete",
+		"Ubah": "Edit",
+		"Update": "Update",
+		"Tambah Baru": "Add New",
+		"Cari Status": "Filter Status",
+		"Pilih Semua": "Check All",
+		"Login": "Login",
+		"Logout": "Logoit",
+		"Kembali": "Back",
+		"Kirim": "Send",
+		"Klik": "Click",
+		"Disini": "Here",
+		"Tolak": "Decline",
+		"Setuju": "Agree",
+		"Download": "Download",
+		"Proses": "Procces",
+		"Kembali Ke Informasi": "Back To Information",
+		"Kembali Ke Login": "Back To Login",
+		"Lupa Password": "Forgot Password ?",
+		"Tambah": "Add",
+		"Publish" : "Publish"
+	},
+	"Label": {
+		"Aksi": "Action",
+		"Unggah": "Browse",
+		"Memproses Data": "Processing Data",
+		"Start Date": "Start Date",
+		"End Date": "End Date",
+		"assign-at" : "Assign At",
+		"assign-by" : "Assign By",
+		"document-date" : "Document Date"
+	},
+	"Beranda": {
+		"Informasi": {
+			"Title": "Information",
+			"Lelang": "Tender",
+			"Pengumuman": "Announcement"
+		},
+		"Registrasi": {
+			"Title": "Registration",
+			"Label": {
+				"Tipe Perusahaan": "Company Type",
+				"Nama Rekanan": "Partner Name",
+				"Direktur Utama": "President Director",
+				"Alamat": "Address",
+				"Negara": "Country",
+				"Provinsi": "Province",
+				"Kota/Kabupaten": "County town",
+				"Kecamatan": "Subdistrict",
+				"Kelurahan": "Village",
+				"Kode Pos": "Postal code",
+				"Tipe Vendor": "Vendor Type",
+				"Purchasing Organization": "Purchasing Organization",
+				"No Telepon": "Telephone",
+				"Email Perusahaan": "Company Email",
+				"Nama PIC": "PIC Name",
+				"No HP PIC": "No HP PIC",
+				"Email PIC": "Email PIC",
+				"Website Perusahaan": "Company Website",
+				"No NPWP": "No NPWP",
+				"File NPWP": "File NPWP",
+				"No TDP": "No TDP",
+				"File TDP": "File TDP"
+			}
+		}
+	},
+	"delete" : {
+		"title-delete" : "Are you sure ?",
+		"yes":"Yes",
+		"cancel":"Cancel",
+		"approve-delete" : "Yes, Delete it!",
+		"approve-title" : "Are you sure to approve it ?",
+		"reject-title" : "Are you sure to Reject it ?",
+		"approve-button" : "Yes, Approve It !",
+		"freeze-button" : "Yes, Freeze It !",
+		"unfreeze-button" : "Yes, Unfreeze It !",
+		"reject-button" : "Yes, Reject It !",
+		"publish-title" : "Are you sure to publish it ?",
+		"save-draft-title" : "Are you sure to save Draft it ?",
+		"publish-button" : "Yes, Publish It !",
+		"save-draft-button" : "Yes, Save Draft It !",
+		"stop-auction-title" : "Are you sure to Stop Auction ?",
+		"stop-auction-button" : "Yes, Stop It !",
+		"close-auction-title" : "Are you sure to Close Auction ?",
+		"close-auction-button" : "Yes, Close It !",
+		"create-auction" : "Yes, Create Auction",
+		"title-create-auction" : "Are you sure to Create Auction ?",
+		"title-reject-oa" : "Are You Sure Reject It ?"
+	},
+	"approval" : {
+		"reject" : "Are you sure to reject it ?",
+		"approve" : "Are you sure to Approve it ?",
+		"submit-approve" : "Approve",
+		"submit-reject" : "Reject"
+	},
+	"errors" : {
+		"required" : "This field is required"
+	},
+	"PR" : {
+		"disposisi-note" : "Disposition Notes"
+	}
+}

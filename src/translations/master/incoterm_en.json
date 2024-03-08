@@ -1,0 +1,25 @@
+{
+	"title": "Incoterms",
+    "table-title": "Table Incoterms",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+		"username": "Username",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Incoterms",
+        "title-create" : "Create Incoterms"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

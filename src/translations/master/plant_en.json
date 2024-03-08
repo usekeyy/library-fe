@@ -1,0 +1,31 @@
+{
+	"title": "Plant",
+    "table-title": "Table Plant",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+		"username": "Username",
+        "email": "Email",
+        "district" : "District",
+        "district-code" : "Code District",
+        "purchasing-org" : "Purchasing Org",
+        "purchasing-org-code" : "Code Purchasing Org",
+        "address" : "Address",
+        "code-post" : "Postal Code",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Plant",
+        "title-create" : "Create Plant"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

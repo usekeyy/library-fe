@@ -1,0 +1,40 @@
+{
+	"title": "UOM",
+    "table-title": "Table UOM",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+        "code": "Code",
+		"country": "Country",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action",
+        "address" : "Address",
+        "bank-name" : "Bank Name",
+        "district" : "District",
+        "long-name" : "Long Name",
+        "company-name" : "Company Name",
+        "company-id" : "Company ID",
+        "currency-name" : "Currency Name",
+        "currency-id" : "Currency ID",
+        "gl-account-id" : "GL Account ID",
+        "gl-account-name" : "GL Account Name",
+        "description" : "Description",
+        "symbol" : "Symbol"
+    },
+    "modal":{
+        "title-update" : "Update Uom",
+        "title-create" : "Create Uom"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    },
+    "table-title-master" : {
+        "bank-branch" : "Bank Branch"
+    }
+}

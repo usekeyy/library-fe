@@ -1,0 +1,65 @@
+{
+	"title": "Auction List",
+	"label": {
+        "vendor-id" : "No Vendor",
+        "vendor-name" : "Nama Vendor",
+        "no-auction" : "Nomor Auction",
+        "no-proposal-tender" : "Nomor Proposal Tender",
+        "description" : "Deskripsi",
+        "note" : "Catatan",
+        "value" : "Nilai",
+        "total-price": "Total Harga",
+        "unit-price": "Harga Satuan",
+        "unit-cost": "Harga Unit",
+        "lower-unit-price" : "Harga Satuan Terendah",
+        "high-unit-price" : "Harga Satuan Tertinggi",
+        "lower-unit-discount" : "Diskon Terendah",
+        "high-unit-discount" : "Discount Tertinggi",
+        "discount" : "Diskon",
+        "currency" : "Mata Uang",
+        "type": "Tipe",
+        "status" : "Status",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi",
+        "date": "Tanggal",
+        "buyyer-name" : "Nama Buyer",
+        "start-date-auction" : "Tanggal Mulai Auction",
+        "finish-date-auction" : "Tanggal Selesai Auction",
+        "create-free-auction" : "Buat Free Auction",
+        "create-free-parameter-auction" : "Buat Parameter Free Auction",
+        "created_by_name" : "Dibuat Oleh"
+    },
+    "button": {
+        "edit": "Ubah",
+        "process": "Proses",
+        "detail": "Rincian",
+        "view": "Lihat",
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "save-draft": "Simpan Draft",
+        "update": "Ubah",
+        "close": "Tutup",
+        "publish": "Publish",
+        "delete" : "Hapus"
+    },
+    "alert" :{
+        "unit-price-not-allowed" : "Harga Satuan Tidak Diperbolehkan",
+        "validation-low-ishigher-price" : "Nilai harga satuan terendah lebih tinggi dari harga satuan tertinggi",
+        "bobot-multivariate-not-allowed" : "Total Bobot  Tidak Diperbolehkan",
+        "bobot-multivariate" : "Jumlah Bobot Teknis dan Bobot Komersial harus 100"
+    },
+    "panel" : {
+        "add-vendor-auction" : "Pilih Peserta Auction",
+        "vendor-auction" : "Peserta Auction",
+        "schedule-auction" : "Jadwal Auction",
+        "history-auction" : "Riwayat Auction",
+        "rules-auction" : "Peraturan Auction",
+        "initial-bid" : "Inisial Bid",
+        "score-panel" : "Skor"
+    },
+    "table" : {
+        "empty-row" : "Tidak Ada Data"
+    }
+}

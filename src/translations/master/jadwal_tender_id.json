@@ -1,0 +1,26 @@
+{
+	"title": "Jadwal Tender",
+    "table-title": "Tabel Jadwal Tender",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+        "metode_penyampaian": "Metode Penyampaian",
+        "order": "Urutan",
+        "code": "Kode",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Jadwal Tender",
+        "title-create" : "Buat Jadwal Tender"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

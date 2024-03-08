@@ -1,0 +1,24 @@
+{
+	"title": "Currency",
+    "table-title": "Currency",
+	"label": {
+        "id" : "Id",
+        "short-text": "Short Text",
+		"long-text": "Long Text",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Currency",
+        "title-create" : "Create Currency"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"title": "Performance Group",
+    "table-title": "Table Performance Group",
+	"label": {
+        "id" : "Id",
+        "kelompok": "Groups",
+        "color" : "Color",
+        "min_poin" : "Point minimum",
+        "max_poin" : "Point Maximum",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Form Update Performance Group",
+        "title-create" : "Form Create Performance Group"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close",
+        "delete" : "Delete"
+    }
+}

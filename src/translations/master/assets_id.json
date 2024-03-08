@@ -1,0 +1,35 @@
+{
+	"title": "Aset",
+    "table-title": "Tabel Aset",
+	"label": {
+		"id": "Id",
+		"name": "Nama",
+        "description" : "Deskripsi",
+        "company_id" : "ID Perusahaan",
+        "subnumber" : "Sub Nomor",
+        "asset_class" : "Kelas Aset",
+        "account_determination" : "Akun Penentuan",
+        "capitalized_on" : "Capitalized On",
+		"status": "Status",
+		"sap_created_by": "Dibuat Oleh (SAP)",
+        "sap_updated_by": "Diubah Oleh (SAP)",
+		"sap_created_at": "Tanggal Dibuat (SAP)",
+        "sap_updated_at": "Tanggal Diubah (SAP)",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+		"created_by": "Dibuat Oleh",
+		"updated_by": "Diubah Oleh",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Aset",
+        "title-create" : "Buat Aset"
+    },
+    "button": {
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Vendor Classification",
+    "table-title": "Tabel Vendor Classification",
+    "label": {
+        "id": "Id",
+        "name": "Nama",
+        "country-id": "ID Negara",
+        "country-name": "Nama Negara",
+        "region-id": "ID Provinsi",
+        "region-name": "Nama Provinsi",
+        "district-id": "ID District",
+        "district-name": "Nama District",
+        "status": "Status",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action": "Aksi"
+    },
+    "modal": {
+        "title-update": "Ubah Vendor Classification",
+        "title-create": "Buat Vendor Classification"
+    },
+    "button": {
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

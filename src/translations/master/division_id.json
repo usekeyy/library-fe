@@ -1,0 +1,26 @@
+{
+	"title": "Divisi",
+    "table-title": "Table Divisi",
+	"label": {
+		"id": "Id",
+		"name": "Nama",
+        "chief": "Kepala Bagian",
+        "purchasing_org_id": "Purchasing Org Kode",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-detail" : "Detail Data Divisi",
+        "title-update" : "Ubah Data Divisi",
+        "title-create" : "Buat Data Divisi"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

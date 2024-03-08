@@ -1,0 +1,24 @@
+{
+	"title": "Negara",
+    "table-title": "Table Negara",
+	"label": {
+		"name": "Nama",
+        "username": "Username",
+        "long-name" : "Nama Lengkap",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah"
+    },
+    "modal":{
+        "title-update" : "Ubah Data Negara",
+        "title-create" : "Buat Data Negara"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

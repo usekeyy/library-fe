@@ -1,0 +1,24 @@
+{
+	"title": "Bobot Performance",
+    "table-title": "Table Bobot Performance",
+	"label": {
+        "id" : "Id",
+        "item_penilaian" : "Assessment Items",
+        "bobot" : "Bobot",
+        "bobot_qs" : "Bobot Q/S",
+        "lingkup" : "Scope",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Form Update Bobot Performance",
+        "title-create" : "Form Create Bobot Performance"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close",
+        "delete" : "Delete"
+    }
+}

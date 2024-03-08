@@ -1,0 +1,36 @@
+{
+	"title": "E-Document",
+    "table-title": "Table E-Document",
+	"label": {
+		"id": "Id",
+		"title": "Title",
+		"cotent": "Content",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action",
+
+        "type" : "Type",
+        "rule" : "Rule"
+    },
+    "modal":{
+        "title-detail" : "Detail E-Document",
+        "title-update" : "Update E-Document",
+        "title-create" : "Create E-Document",
+
+        "title-rule-auction-detail" : "Detail Rule Auction",
+        "title-rule-auction-update" : "Update Rule Auction",
+        "title-rule-auction-create" : "Create Rule Auction"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "submit-draft" : "Submit Draft",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    },
+
+    "title-rule-auction" : "Rule Auction",
+    "table-title-rule-auction" : "Table Rule Auction"
+}

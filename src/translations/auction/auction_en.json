@@ -1,0 +1,65 @@
+{
+    "title": "Auction List",
+    "label": {
+        "vendor-id" : "Vendor Number",
+        "vendor-name" : "Vendor Nama",
+        "no-auction": "Auction Number",
+        "no-proposal-tender": "Proposal Tender Number",
+        "description": "Description",
+        "value": "value",
+        "note" : "Note",
+        "total-price": "Total Price",
+        "unit-price": "Unit Price",
+        "unit-cost": "Unit Cost",
+        "lower-unit-price" : "Lower Unit Price",
+        "high-unit-price" : "Higher Unit Price",
+        "lower-unit-discount" : "Lower Discount",
+        "high-unit-discount" : "Higher Discount",
+        "discount" : "Discount",
+        "currency" : "Currency",
+        "type": "Type",
+        "status": "Status",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "action": "Action",
+        "date": "Date",
+        "buyyer-name" : "Buyer Name",
+        "start-date-auction" : "Start Date Auction",
+        "finish-date-auction" : "Finish Date Auction",
+        "create-free-auction" : "Create Free Auction",
+        "create-free-parameter-auction" : "Create Free Parameter Auction",
+        "created_by_name" : "Created by Name"
+    },
+    "button": {
+        "edit": "Edit",
+        "process": "Process",
+        "detail": "Detail",
+        "view": "View",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "save-draft": "Save Draft",
+        "close": "Close",
+        "delete" : "Delete",
+        "publish": "Publish"
+    },
+    "alert" :{
+        "unit-price-not-allowed" : "Unit Price Not Allowed",
+        "validation-low-ishigher-price" : "Value Lower Unit Price is Higher Than Value High Unit Price",
+        "bobot-multivariate-not-allowed" : "Total Bobot Not Allowed",
+        "bobot-multivariate" : "Bobot Technic and Bobot Commercial Must Be 100"
+    },
+    "panel" : {
+        "add-vendor-auction" : "Add Vendor Auction",
+        "vendor-auction" : "Vendor Auction",
+        "schedule-auction" : "Schedule Auction",
+        "history-auction" : "History Auction",
+        "rules-auction" : "Rules Auction",
+        "initial-bid" : "Initial Bid",
+        "score-panel" : "Score"
+    },
+    "table" : {
+        "empty-row" : "Empty Row"
+    }
+}

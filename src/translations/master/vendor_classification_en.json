@@ -1,0 +1,29 @@
+{
+    "title": "Vendor Classification",
+    "table-title": "Table Vendor Classification",
+    "label": {
+        "id": "Id",
+        "name": "Name",
+        "country-id": "ID Country",
+        "country-name": "Country Name",
+        "region-id": "ID Region",
+        "region-name": "Region Name",
+        "district-id": "ID District",
+        "district-name": "District Name",
+        "status": "Status",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update Vendor Classification",
+        "title-create": "Create Vendor Classification"
+    },
+    "button": {
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"title": "Vendor Sub Bidang Usaha",
+    "table-title": "Tabel Sub Vendor Bidang Usaha",
+	"label": {        
+        "id" : "Id",
+        "name": "Nama",
+        "bidang-usaha-id" : "Id Bidang Usaha",
+        "bidang-usaha-name" : "Nama Bidang Usaha",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Vendor Bidang Usaha",
+        "title-create" : "Buat Vendor Bidang Usaha"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

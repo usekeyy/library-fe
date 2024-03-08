@@ -1,0 +1,25 @@
+{
+    "title": "Condition Type",
+    "table-title": "Table Condition Type",
+    "label": {
+        "type": "Condition Type",
+		"description": "Condition Type Description",
+        "calc-type" : "Calc Type",
+        "status": "Status",
+        "description": "Description",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update Condition Type",
+        "title-create": "Create Condition Type"
+    },
+    "button": {
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

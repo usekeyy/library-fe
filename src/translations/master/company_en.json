@@ -1,0 +1,23 @@
+{
+	"title": "Companies",
+    "table-title": "Table Companies",
+	"label": {
+		"name": "Name",
+		"username": "Username",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At"
+    },
+    "modal":{
+        "title-update" : "Update Companies",
+        "title-create" : "Create Companies"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

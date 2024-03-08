@@ -1,0 +1,24 @@
+{
+	"title": "Kelompok Performa",
+    "table-title": "Table Kelompok Performa",
+	"label": {
+        "id" : "Id",
+        "kelompok": "Kelompok",
+        "color" : "Warna",
+        "min_poin" : "Minimal Point",
+        "max_poin" : "Maksimal Point",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Form Ubah Kelompok Performa",
+        "title-create" : "Form Tambah Kelompok Performa"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup",
+        "delete" : "Hapus"
+    }
+}

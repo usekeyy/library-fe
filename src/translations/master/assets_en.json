@@ -1,0 +1,35 @@
+{
+	"title": "Asset",
+    "table-title": "Table Asset",
+	"label": {
+		"id": "Id",
+		"name": "Name",
+        "description" : "Description",
+        "company_id" : "Company ID",
+        "subnumber" : "Sub Number",
+        "asset_class" : "Asset Class",
+        "account_determination" : "Account Determination",
+        "capitalized_on" : "Capitalized On",
+		"status": "Status",
+		"sap_created_by": "SAP Created by",
+        "sap_updated_by": "SAP Updated by",
+		"sap_created_at": "SAP Created At",
+        "sap_updated_at": "SAP Updated At",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+		"created_by": "Created By",
+		"updated_by": "Updated By",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Asset",
+        "title-create" : "Create Asset"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

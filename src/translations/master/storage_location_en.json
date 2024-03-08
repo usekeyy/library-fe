@@ -1,0 +1,29 @@
+{
+	"title": "Storage Location",
+    "table-title": "Table Storage Location",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+		"username": "Username",
+        "code": "Code",
+        "plant-name" : "Plant Name",
+        "plant-id" : "Plant ID",
+        "address" : "Address",
+        "code-post" : "Postal Code",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Storage Location",
+        "title-create" : "Create Storage Location Baru"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

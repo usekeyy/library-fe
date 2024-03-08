@@ -1,0 +1,35 @@
+{
+	"title": "Bobot Performance",
+    "table-title": "Table Bobot Performance",
+	"label": {
+        "id" : "Id",
+        "no_proposal_tender" : "Proposal Tender Number",
+        "no_pr" : "PR Number",
+        "title" : "Title",
+        "nilai" : "Value",
+        "tanggal_pengumuman" : "Announcement Date",
+        "tanggal_batas_registrasi" : "Registration Deadline Date",
+        "tanggal_closing_date" : "Closing Date",
+        "action" : "Action"
+    },
+    "status" : {
+        "pengumuman" : "Announcement",
+        "registrasi" : "Registration",
+        "done" : "Close",
+        "cari_status" : "Search Status",
+        "bid_opening" : "Bid Opening"
+    },
+    "modal":{
+        "title-update" : "Form Update Bobot Performance",
+        "title-create" : "Form Create Bobot Performance"
+    },
+    "button" : {
+        "view" : "view",
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close",
+        "delete" : "Delete"
+    }
+}

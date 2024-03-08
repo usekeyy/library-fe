@@ -1,0 +1,36 @@
+{
+	"title": "E-Document",
+    "table-title": "Table E-Document",
+	"label": {
+		"id": "Id",
+		"title": "Judul",
+		"cotent": "Konten",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi",
+
+        "type" : "Tipe",
+        "rule" : "Aturan"
+    },
+    "modal":{
+        "title-detail" : "Detail Data E-Document",
+        "title-update" : "Ubah Data E-Document",
+        "title-create" : "Buat Data E-Document",
+
+        "title-rule-auction-detail" : "Detail Data Rule Auction",
+        "title-rule-auction-update" : "Ubah Data Rule Auction",
+        "title-rule-auction-create" : "Buat Data Rule Auction"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "submit-draft" : "Simpan Draft",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    },
+
+    "title-rule-auction" : "Rule Auction",
+    "table-title-rule-auction" : "Table Rule Auction"
+}

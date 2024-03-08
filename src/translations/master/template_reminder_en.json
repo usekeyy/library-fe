@@ -1,0 +1,26 @@
+{
+	"title": "Template Reminder",
+    "table-title": "Table Template Reminder",
+	"label": {
+		"id": "Id",
+		"name": "Name",
+        "username": "Username",
+        "description" : "Description",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-detail" : "Detail Template Reminder",
+        "title-update" : "Update Template Reminder",
+        "title-create" : "Create Template Reminder"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

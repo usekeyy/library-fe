@@ -1,0 +1,46 @@
+{
+    "title": "Vendor Punishment List",
+    "table": "Table",
+    "label": {
+        "verification": "Verification",
+        "punishment_vendor": "Vendor Punishment",
+        "punishment_vendor_ajuan": "Vendor Punishment Submission",
+        "punishment_vendor_verifikasi": "Vendor Punishment Verification",
+        "punishment_vendor_detail": "Vendor Punishment Detail",
+        "punishment_vendor_ajuan_detail": "Vendor Punishment Submission Detail",
+        "punishment_vendor_verifikasi_detail": "Vendor Punishment Verification Detail",
+        "vendor": "Vendor",
+        "vendor_id": "Registration Number",
+        "vendor_sap_code": "ERP Number",
+        "vendor_npwp_nomor": "NPWP Number",
+        "vendor_name": "Vendor Name",
+        "punishment_type": "Punishment Type",
+        "suspend_type": "Suspend Type",
+        "start_date": "Start Date",
+        "end_date": "End Date",
+        "reason_note": "Punishment Note",
+        "purchasing_org": "Purchasing Org",
+        "purchasing_org_suspend": "Purchasing Org Suspend",
+        "purchasing_org_suspend_name": "Company Name",
+        "verification_note": "Verification Note",
+        "file": "Punishment Supporting File",
+        "status": "Status",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "created_by": "Created By",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update",
+        "title-create": "Create"
+    },
+    "button": {
+        "approve": "Approve",
+        "reject": "Reject",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

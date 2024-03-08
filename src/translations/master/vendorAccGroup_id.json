@@ -1,0 +1,24 @@
+{
+	"title": "Vendor Acc Group",
+    "table-title": "Table Vendor Acc Group",
+	"label": {        
+        "code": "Kode",
+        "name": "Nama",
+		"on-time-acc": "Acc Tepat Waktu",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Vendor Acc Group",
+        "title-create" : "Buat Vendor Acc Group Baru"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

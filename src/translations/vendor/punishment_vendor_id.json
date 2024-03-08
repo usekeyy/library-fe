@@ -1,0 +1,46 @@
+{
+    "title": "Daftar Hukuman Vendor",
+    "table": "Tabel",
+    "label": {
+        "verification": "Verifikasi",
+        "punishment_vendor": "Hukuman Vendor",
+        "punishment_vendor_ajuan": "Pengajuan Hukuman Vendor",
+        "punishment_vendor_verifikasi": "Verifikasi Hukuman Vendor",
+        "punishment_vendor_detail": "Detail Hukuman Vendor",
+        "punishment_vendor_ajuan_detail": "Detail Verifikasi Hukuman Vendor",
+        "punishment_vendor_verifikasi_detail": "Detail Pengajuan Hukuman Vendor",
+        "vendor": "Vendor",
+        "vendor_id": "No Pendaftaran",
+        "vendor_sap_code": "No ERP",
+        "vendor_npwp_nomor": "No NPWP",
+        "vendor_name": "Nama Vendor",
+        "punishment_type": "Jenis Hukuman",
+        "suspend_type": "Jenis Tangguhan",
+        "start_date": "Tanggal Mulai",
+        "end_date": "Tanggal Selesai",
+        "reason_note": "Catatan Hukuman",
+        "purchasing_org": "Purchasing Org",
+        "purchasing_org_suspend": "Purchasing Org yg Disuspend",
+        "purchasing_org_suspend_name": "Nama Perusahaan",
+        "verification_note": "Catatan Verifikasi",
+        "file": "File Pendukung Punishment",
+        "status": "Status",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "created_by": "Dibuat Oleh",
+        "action": "Aksi"
+    },
+    "modal": {
+        "title-update": "Ubah",
+        "title-create": "Buat"
+    },
+    "button": {
+        "approve": "Setujui",
+        "reject": "Tolak",
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

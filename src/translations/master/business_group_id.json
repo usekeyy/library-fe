@@ -1,0 +1,27 @@
+{
+    "title": "Grup Bisnis",
+    "table-title": "Tabel Grup Bisnis",
+    "label": {
+        "id": "Id",
+        "name": "Nama",
+        "status": "Status",
+        "penjualan_min": "Penjualan Minimal",
+        "penjualan_max": "Penjualan Maksimal",
+        "asset_min": "Aset Minimal",
+        "asset_max": "Aset Maksimal",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action": "Aksi"
+    },
+    "modal": {
+        "title-update": "Ubah Grup Bisnis",
+        "title-create": "Buat Grup Bisnis"
+    },
+    "button": {
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

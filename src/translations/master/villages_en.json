@@ -1,0 +1,31 @@
+{
+	"title": "Villages",
+    "table-title": "Table Villages",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+        "country-id" : "ID Country",
+        "country-name" : "Country Name",
+        "region-id" : "ID Region",
+        "region-name" : "Region Name",
+        "district-id" : "ID District", 
+        "district-name" : "District Name", 
+        "sub-district-id" : "ID Sub District", 
+        "sub-district-name" : "Sub District Name", 
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Villages",
+        "title-create" : "Create Villages"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

@@ -1,0 +1,33 @@
+{
+	"title": "WBS Project",
+    "table-title": "Tabel WBS Project",
+	"label": {
+		"id": "Id",
+		"name": "Nama",
+        "description" : "Deskripsi",
+        "wbs_element" : "WBS Element",
+        "company_id" : "ID Perusahaan",
+        "object_number" : "Nomor Object",
+        "project_type" : "Tipe Object",
+        "level" : "Level",
+		"status": "Status",
+		"sap_created_by": "Dibuat Oleh {SAP}",
+        "sap_updated_by": "Diubah Oleh (SAP)",
+		"sap_created_at": "Tanggal Dibuat (SAP)",
+        "sap_updated_at": "Tanggal Diubah (SAP)",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah WBS Project",
+        "title-create" : "Buat WBS Project"
+    },
+    "button": {
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

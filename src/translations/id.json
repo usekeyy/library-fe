@@ -1,0 +1,135 @@
+{
+	"welcome": {
+		"Hello World": "Hallo Dunia",
+		"title": "Selamat datang di react app"
+	},
+	"To get started, edit <1>src/App.js</1> and <3>save to reload</3>.": "Untuk memulai projek, edit <1>src/App.js</1> dan <3>simpan lalu reload</3>.",
+	"Test": "ID",
+	"userMessagesUnread": "Hallo <1>{{name}}</1>, kamu mendapatkan {{count}} pesan belum dibaca. <5>kembali</5>.",
+	"userMessagesUnread_plural": "Hallo <1>{{name}}</1>, kamu mendapatkan {{count}} pesan belum dibaca.  <5>kembali</5>.",
+	"Select": {
+		"Sedang Memuat": "Sedang Memuat",
+		"Pilih": "Pilih"
+	},
+	"Tabel": { 
+		"Menampilkan": "Menampilkan",
+		"Keterangan": "entri pada halaman {{pages}} dari {{totals}} total data",
+		"empty-row" : "Tidak Ada Data"
+	},
+	"range-from-grather-then-range-to" : "Nilai Awal (Dari) lebih tinggi dari Nilai Akhir (Sampai)",
+	"filter-range" : {
+		"title" : "Nilai Tertentu",
+		"start" : "Mulai Dari",
+		"to" : "Sampai",
+		"all" : "Semua",
+		"range" : "Rentang Nilai",
+		"value" : "Nilai Tertentu"
+	},
+	"required" : "Mandatori",
+	"Button": {
+		"Simpan": "Simpan",
+		"Batal": "Batal",
+		"Submit": "Submit",
+		"Tutup": "Tutup",
+		"Hapus": "Hapus",
+		"Ubah": "Ubah",
+		"Update": "Ubah",
+		"Tambah Baru": "Tambah Baru",
+		"Cari Status": "Cari Status",
+		"Pilih Semua": "Pilih Semua",
+		"Login": "Masuk",
+		"Logout": "Keluar",
+		"Kembali": "Kembali",
+		"Kirim": "Kirim",
+		"Klik": "Klik",
+		"Disini": "Disini",
+		"Tolak": "Tolak",
+		"Setuju": "Setuju",
+		"Download": "Unduh",
+		"Proses": "Proses",
+		"Kembali Ke Informasi": "Kembali Ke Informasi",
+		"Kembali Ke Login": "Kembali Ke Login",
+		"Lupa Password": "Lupa Password ?",
+		"Tambah": "Tambah",
+		"Publish" : "Publish"
+	},
+	"Label": {
+		"Aksi": "Aksi",
+		"Unggah": "Telusuri",
+		"Memproses Data": "Memproses Data",
+		"Start Date": "Dari Tanggal",
+		"End Date": "Sampai Tanggal",
+		"assign-at" : "Ditugaskan Pada",
+		"assign-by" : "Ditugaskan Oleh",
+		"document-date" : "Tanggal Dokumen"
+	},
+	"Beranda": {
+		"Informasi": {
+			"Title": "Informasi",
+			"Lelang": "Lelang",
+			"Pengumuman": "Pengumuman"
+		},
+		"Registrasi": {
+			"Title": "Pendaftaran",
+			"Label": {
+				"Tipe Perusahaan": "Tipe Perusahaan",
+				"Nama Rekanan": "Nama Rekanan",
+				"Direktur Utama": "Direktur Utama",
+				"Alamat": "Alamat",
+				"Negara": "Negara",
+				"Provinsi": "Provinsi",
+				"Kota/Kabupaten": "Kota/Kabupaten",
+				"Kecamatan": "Kecamatan",
+				"Kelurahan": "Kelurahan",
+				"Kode Pos": "Kode Pos",
+				"Tipe Vendor": "Tipe Vendor",
+				"Purchasing Organization": "Purchasing Organization",
+				"No Telepon": "No Telepon",
+				"Email Perusahaan": "Email Perusahaan",
+				"Nama PIC": "Nama PIC",
+				"No HP PIC": "No HP PIC",
+				"Email PIC": "Email PIC",
+				"Website Perusahaan": "Website Perusahaan",
+				"No NPWP": "No NPWP",
+				"File NPWP": "File NPWP",
+				"No TDP": "No TDP",
+				"File TDP": "File TDP"
+			}
+		}
+	},
+	"delete" : {
+		"title-delete" : "Apakah anda yakin ?",
+		"yes":"Ya",
+		"cancel":"Batal",
+		"approve-delete" : "Setuju !",
+		"approve-title" : "Apakah anda yakin untuk menyetujui ?",
+		"reject-title" : "Apakah anda yakun untuk menolak ?",
+		"approve-button" : "Ya, Setuju !",
+		"freeze-button" : "Ya, Freeze !",
+		"unfreeze-button" : "Ya, Unfreeze!",
+		"reject-button" : "Ya, Tolak!",
+		"publish-title" : "Apakah anda yakin untuk Publish ?",
+		"save-draft-title" : "Apakah anda yakin untuk Simpan Draft ?",
+		"publish-button" : "Ya, Publish !",
+		"save-draft-button" : "Ya, Simpan Draft !",
+		"stop-auction-title" : "Apakah anda yakin untuk menghentikan auction ?",
+		"stop-auction-button" : "Ya, Hentikan !",
+		"close-auction-title" : "Apakah anda yakin untuk menutup auction ?",
+		"close-auction-button" : "Ya, Tutup !",
+		"create-auction" : "Ya, Buat Auction",
+		"title-create-auction" : "Apakah anda yakin untuk buat Auction ?",
+		"title-reject-oa" : "Apakah Anda Ingin Reject ?"
+	},
+	"approval" : {
+		"reject" : "Apakah Anda yakin untuk menolak ?",
+		"approve" : "Apakah anda yakin untuk menyetujui ini ?",
+		"submit-approve" : "Setujui",
+		"submit-reject" : "Tolak"
+	},
+	"errors" : {
+		"required" : "Field harus diisi"
+	},
+	"PR" : {
+		"disposisi-note" : "Catatan Disposisi"
+	}
+}

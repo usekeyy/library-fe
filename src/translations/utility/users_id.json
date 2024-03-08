@@ -1,0 +1,18 @@
+{
+	"Title": "Pengguna",
+	"Tabel User": "Tabel Pengguna",
+	"Breadcrumb": {
+		"Beranda": "Beranda",
+		"Managemen Pengguna": "Management Pengguna",
+		"Pengguna": "Pengguna"
+	},
+	"Label": {
+		"Nama": "Nama",
+		"Username": "Nama Pengguna",
+		"Email": "Email",
+		"Status": "Status",
+		"Tanggal Dibuat": "Tanggal Dibuat",
+		"Tanggal Diubah": "Tanggal Diubah",
+		"company-code" : "Kode Perusahaan"
+	}
+}

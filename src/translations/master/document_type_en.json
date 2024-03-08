@@ -1,0 +1,32 @@
+{
+	"title": "Dokument Type",
+    "table-title": "Table Dokument Type",
+    "table-title-tax": "Tax Table",
+	"label": {
+		"id": "Id",
+		"name": "Name",
+        "username": "Username",
+        "company_id" : "Company ID",
+        "document_category" : "Document Category",
+        "description" : "Description",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action",
+
+        "tax" : "Tax",
+        "tax-code" : "Tax Code",
+        "tax-description" : "Tax Description"
+    },
+    "modal":{
+        "title-update" : "Update Dokument Type",
+        "title-create" : "Create Dokument Type"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

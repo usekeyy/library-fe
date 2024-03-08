@@ -1,0 +1,33 @@
+{
+	"title": "Cost Center",
+    "table-title": "Tabel Cost Center",
+	"label": {
+		"id": "Id",
+		"name": "Nama",
+        "description" : "Nama Lengkap",
+        "company_id" : "ID Perusahaan",
+        "company_area" : "Area Perusahaan",
+        "valid_from" : "Valid dari",
+        "valid_to" : "Valid sampai",
+        "category" : "Kategori",
+		"status": "Status",
+		"sap_created_by": "Dibuat Oleh (SAP)",
+        "sap_updated_by": "Diubah Oleh (SAP)",
+		"sap_created_at": "Tanggal Dibuat (SAP)",
+        "sap_updated_at": "Tanggal Diubah (SAP)",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Cost Center",
+        "title-create" : "Buat Cost Center"
+    },
+    "button": {
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

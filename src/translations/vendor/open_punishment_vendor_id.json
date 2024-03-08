@@ -1,0 +1,42 @@
+{
+    "title": "Buka Hukuman Vendor",
+    "table": "Tabel",
+    "label": {
+        "verification": "Verifikasi",
+        "open_punishment_vendor": "Buka Hukuman Vendor",
+        "open_punishment_vendor_verifikasi": "Verifikasi Buka Hukuman Vendor",
+        "open_punishment_vendor_detail": "Detail Buka Hukuman Vendor",
+        "open_punishment_vendor_verifikasi_detail": "Detail Verifikasi Buka Hukuman Vendor",
+        "vendor": "Vendor",
+        "vendor_id": "No Pendaftaran",
+        "vendor_sap_code": "No ERP",
+        "vendor_npwp_nomor": "No NPWP",
+        "vendor_name": "Nama Vendor",
+        "punishment_type": "Jenis Hukuman",
+        "suspend_type": "Jenis Tangguhan",
+        "open_date": "Tanggal Buka",
+        "reason_note": "Catatan Open Punishment",
+        "purchasing_org": "Purchasing Org",
+        "purchasing_org_suspend": "Purchasing Org yg Disuspend",
+        "verification_note": "Catatan Verifikasi",
+        "file": "File Pendukung Open Punishment",
+        "status": "Status",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "created_by": "Dibuat Oleh",
+        "action": "Aksi"
+    },
+    "modal": {
+        "title-update": "Ubah",
+        "title-create": "Buat"
+    },
+    "button": {
+        "approve": "Setujui",
+        "reject": "Tolak",
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

@@ -1,0 +1,29 @@
+{
+	"title": "Vendor Tipe Rekanan",
+    "table-title": "Tabel Vendor Tipe Rekanan",
+	"label": {        
+        "id" : "Id",
+        "name": "Nama",
+        "country-id" : "ID Negara",
+        "country-name" : "Nama Negara",
+        "region-id" : "ID Provinsi",
+        "region-name" : "Nama Provinsi",
+        "district-id" : "ID District", 
+        "district-name" : "Nama District", 
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Vendor Tipe Rekanan",
+        "title-create" : "Buat Vendor Tipe Rekanan"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

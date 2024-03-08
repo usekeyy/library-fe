@@ -1,0 +1,25 @@
+{
+	"title": "Kabupaten",
+    "table-title": "Kabupaten",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+        "country" : "Negara",
+        "region" : "Provinsi",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Kabupaten",
+        "title-create" : "Buat Kabupaten"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

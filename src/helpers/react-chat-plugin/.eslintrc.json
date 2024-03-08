@@ -1,0 +1,64 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "jest/globals": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "standard",
+        "plugin:jest/all",
+        "prettier"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "jest",
+        "prettier"
+    ],
+    "rules": {
+        "jest/no-disabled-tests": "warn",
+        "jest/no-focused-tests": "error",
+        "jest/no-identical-title": "error",
+        "jest/prefer-to-have-length": "warn",
+        "jest/valid-expect": "error",
+        "block-scoped-var": "error",
+        "class-methods-use-this": "error",
+        "curly": "error",
+        "default-case": "error",
+        "default-case-last": "error",
+        "semi": [
+            "error",
+            "always"
+        ],
+        // have conflicts with prettier
+        // "indent": [
+        //     "error",
+        //     2
+        // ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "jest/no-hooks": "off",
+        "jsx-quotes": "error",
+        "space-before-function-paren": "off",
+        "prettier/prettier": "error"
+    },
+    "settings": {
+        "react": {
+            "pragma": "React",
+            "version": "16.12"
+        } 
+    }
+}

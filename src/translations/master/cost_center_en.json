@@ -1,0 +1,33 @@
+{
+	"title": "Cost Center",
+    "table-title": "Table Cost Center",
+	"label": {
+		"id": "Id",
+		"name": "Short Name",
+        "description" : "Long Name",
+        "company_id" : "Company ID",
+        "company_area" : "Company Area",
+        "valid_from" : "Valid From",
+        "valid_to" : "Valid To",
+        "category" : "Category",
+		"status": "Status",
+		"sap_created_by": "SAP Created by",
+        "sap_updated_by": "SAP Updated by",
+		"sap_created_at": "SAP Created At",
+        "sap_updated_at": "SAP Updated At",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Cost Center",
+        "title-create" : "Create Cost Center"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

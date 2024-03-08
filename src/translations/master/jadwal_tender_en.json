@@ -1,0 +1,26 @@
+{
+	"title": "Tender Schedule",
+    "table-title": "Table Tender Schedule",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+        "metode_penyampaian": "Delivery Method",
+        "order": "Order",
+        "code": "Code",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Tender Schedule",
+        "title-create" : "Create Tender Schedule"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

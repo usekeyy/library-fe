@@ -1,0 +1,26 @@
+{
+    "table": "Tabel",
+	"label": {
+        "template_persyaratan": "Template Persyaratan",
+        "template_persyaratan_item": "Template Persyaratan Item",
+        "id" : "Id",
+        "name": "Nama",
+        "description": "Deskripsi",
+		"tipe": "Tipe",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah",
+        "title-create" : "Buat"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

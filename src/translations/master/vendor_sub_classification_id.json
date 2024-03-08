@@ -1,0 +1,23 @@
+{
+    "title": "Vendor Sub Classification",
+    "table-title": "Tabel Vendor Sub Classification",
+    "label": {
+        "id": "Id",
+        "name": "Nama",
+        "status": "Status",
+        "created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action": "Aksi"
+    },
+    "modal": {
+        "title-update": "Ubah Vendor Sub Classification",
+        "title-create": "Buat Vendor Sub Classification"
+    },
+    "button": {
+        "submit": "Simpan",
+        "cancel": "Batal",
+        "add": "Tambah Baru",
+        "update": "Ubah",
+        "close": "Tutup"
+    }
+}

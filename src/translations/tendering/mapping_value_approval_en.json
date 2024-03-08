@@ -1,0 +1,27 @@
+{
+	"title": "Maping Value Approval",
+    "table-title": "Table Maping Value Approval",
+	"label": {
+		"id": "Id",
+        "name": "Name",
+        "purchasing_org_id": "Purchasing Org Code",
+        "purchasing_group_id": "Purchasing Group Code",
+        "value_from": "Value From",
+        "value_to": "Value To",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Maping Value Approval",
+        "title-create" : "Create Maping Value Approval"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

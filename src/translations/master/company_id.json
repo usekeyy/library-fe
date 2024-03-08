@@ -1,0 +1,23 @@
+{
+	"title": "Perusahaan",
+    "table-title": "Table Perusahaan",
+	"label": {
+		"name": "Nama",
+		"username": "Username",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah"
+    },
+    "modal":{
+        "title-update" : "Ubah Perusahaan",
+        "title-create" : "Buat Perusahaan"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

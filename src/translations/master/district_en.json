@@ -1,0 +1,25 @@
+{
+	"title": "District",
+    "table-title": "Table District",
+	"label": {
+        "id" : "Id",
+        "name": "Name",
+        "country" : "country",
+        "region" : "region",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update District",
+        "title-create" : "Create District"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"title": "Searchterms",
+    "table-title": "Tabel Searchterms",
+	"label": {
+        "id" : "Id",
+        "code": "Kode",
+        "description" : "Deskripsi",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Form Ubah Searchterms Master",
+        "title-create" : "Form Tambah Master Searchterms"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup",
+        "delete" : "Hapus"
+    }
+}

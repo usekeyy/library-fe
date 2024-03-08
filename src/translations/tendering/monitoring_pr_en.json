@@ -1,0 +1,47 @@
+{
+	"title": "Bobot Performance",
+    "table-title": "Table Bobot Performance",
+	"label": {
+        "number" : "Number",
+        "item_no" : "Item No",
+        "tipe" : "Tipe",
+        "material_id" : "ID Material",
+        "shorttext" : "Shorttext",
+        "pr_qty" : "PR Qty",
+        "valuation_price" : "Valuation Price",
+        "material_group_id" : "Material Group ID",
+        "purchasing_group_id" : "Purchasing Group ID",
+        "requisitioner" : "Requisitioner",
+        "status" : "Status PR",
+        "kabag_name" : "KABAG Name",
+        "buyer_name" : "Buyer Name",
+        "assign_at" : "Assign At",
+        "source_determination" : "Source Determination",
+        "assign_processing" : "Assign Processing",
+        "outline_agreement" : "Outline Agreement",
+        "tender_number" : "Proposal Tender Number",
+        "status_tender" : "Status Tender",
+        "status_item" : "Status Item",
+        "action" : "Action"
+    },
+    "status" : {
+        "pengumuman" : "Announcement",
+        "registrasi" : "Registration",
+        "done" : "Close",
+        "cari_status" : "Search Status",
+        "bid_opening" : "Bid Opening"
+    },
+    "modal":{
+        "title-update" : "Form Update Bobot Performance",
+        "title-create" : "Form Create Bobot Performance"
+    },
+    "button" : {
+        "view" : "view",
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close",
+        "delete" : "Delete"
+    }
+}

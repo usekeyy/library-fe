@@ -1,0 +1,24 @@
+{
+	"title": "Country",
+    "table-title": "Table Country",
+	"label": {
+		"name": "Name",
+        "username": "Username",
+        "long-name" : "Long Name",
+		"email": "Email",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At"
+    },
+    "modal":{
+        "title-update" : "Update Country",
+        "title-create" : "Create Country"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

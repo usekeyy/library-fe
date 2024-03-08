@@ -1,0 +1,25 @@
+{
+	"title": "Work Units",
+    "table-title": "Table Work Units",
+	"label": {
+		"id": "Id",
+		"name": "Name",
+        "username": "Username",
+        "description" : "Description",
+		"status": "Status",
+		"created_at": "Created At",
+        "updated_at": "Updated At",
+        "action" : "Action"
+    },
+    "modal":{
+        "title-update" : "Update Work Units",
+        "title-create" : "Create Work Units"
+    },
+    "button" : {
+        "submit" : "Submit",
+        "cancel" : "Cancel",
+        "add" : "Add New",
+        "update" : "Update",
+        "close" : "Close"
+    }
+}

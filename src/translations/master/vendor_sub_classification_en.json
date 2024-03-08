@@ -1,0 +1,23 @@
+{
+    "title": "Vendor Sub Classification",
+    "table-title": "Table Vendor Sub Classification",
+    "label": {
+        "id": "Id",
+        "name": "Name",
+        "status": "Status",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "action": "Action"
+    },
+    "modal": {
+        "title-update": "Update Vendor Sub Classification",
+        "title-create": "Create Vendor Sub Classification"
+    },
+    "button": {
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "add": "Add New",
+        "update": "Update",
+        "close": "Close"
+    }
+}

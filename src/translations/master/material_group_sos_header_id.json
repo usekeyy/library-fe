@@ -1,0 +1,29 @@
+{
+	"title": "Material Group SOS Header",
+    "table-title": "Tabel Material Group SOS Header",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+        "material_group": "Material Group",
+        "bidang_usaha": "Bidang Usaha",
+        "material_group_id": "Kode Material Group",
+        "material_group_name": "Nama Material Group",
+        "bidang_usaha_id": "Kode Bidang Usaha",
+        "bidang_usaha_name": "Nama Bidang Usaha",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Material Group SOS Header",
+        "title-create" : "Buat Material Group SOS Header"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}

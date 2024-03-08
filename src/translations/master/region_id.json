@@ -1,0 +1,25 @@
+{
+	"title": "Provinsi",
+    "table-title": "Table Provinsi",
+	"label": {
+        "id" : "Id",
+        "name": "Nama",
+        "code": "kode",
+		"country": "Negara",
+		"status": "Status",
+		"created_at": "Tanggal Dibuat",
+        "updated_at": "Tanggal Diubah",
+        "action" : "Aksi"
+    },
+    "modal":{
+        "title-update" : "Ubah Provinsi",
+        "title-create" : "Buat Provinsi Baru"
+    },
+    "button" : {
+        "submit" : "Simpan",
+        "cancel" : "Batal",
+        "add" : "Tambah Baru",
+        "update" : "Ubah",
+        "close" : "Tutup"
+    }
+}
